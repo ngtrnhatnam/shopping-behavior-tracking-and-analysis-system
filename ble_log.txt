@@ -1,0 +1,608 @@
+ets Jul 29 2019 12:21:46
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -82
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -103
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -103
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -99
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -92
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -92
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -103
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -97
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -96
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -100
+Found 2 devices
+Device 1: Address: b0:99:d7:69:b6:f3, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -100
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -97
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -107
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -98
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -96
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -94
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -91
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -97
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -99
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -91
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -91
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -103
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 2 devices
+Device 1: Address: c9:34:de:f8:2f:62, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -82
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -106
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -86
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84
+:77, RSSI: -84 12:21:46
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -83
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -103
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -84
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -85
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -94
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -85
+ets Jul 29 2019 12:21:46
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+ets Jul 29 2019 12:21:46
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -83
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -100
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -92
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -91
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -106
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -94
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -92
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -100
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -88
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -91
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -94
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -87
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+PI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -98
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -101
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -105
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -92
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -95
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -94
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -94
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -102
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -100
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -94
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -96
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -92
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -91
+ets Jul 29 2019 12:21:46
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -99
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -93
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -101
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -91
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -102
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -91
+ets Jul 29 2019 12:21:46
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Start
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -104
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -102
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -88
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -105
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -90
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -105
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -91
+Found 1 devices
+Device 1: Address: fc:f1:36:61:a9:77, RSSI: -89
+Found 2 devices
+Device 1: Address: d1:6d:fe:d0:46:d8, RSSI: -109
+Device 2: Address: fc:f1:36:61:a9:77, RSSI: -90

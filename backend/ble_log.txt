@@ -1,0 +1,159 @@
+ets Jul 29 2019 12:21:46
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:4888
+load:0x40078000,len:16516
+load:0x40080400,len:4
+load:0x40080404,len:3476
+entry 0x400805b4
+BLE Scanner Starting...
+Found 1 device(s)
+Device 1: [Address: ff:22:f7:ba:83:ff - RSSI: -105 dBm]
+Found 0 device(s)
+Found 1 device(s)
+Device 1: [Address: ff:22:f7:ba:83:ff - RSSI: -101 dBm]
+Found 1 device(s)
+Device 1: [Address: ff:22:f7:ba:83:ff - RSSI: -103 dBm]
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Device 2: [Address: ff:22:f7:ba:83:ff - RSSI: -100 dBm]
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -99 dBm]
+Device 2: [Address: ff:22:f7:ba:83:ff - RSSI: -104 dBm]
+Found 1 device(s)
+Device 1: [Address: ff:22:f7:ba:83:ff - RSSI: -101 dBm]
+Found 0 device(s)
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -102 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -97 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -102 dBm]
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -99 dBm]
+Found 2 device(s)
+Device 1: [Address: 6b:dd:18:c9:c6:8e - RSSI: -104 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -103 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -102 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -102 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -105 dBm]
+Found 0 device(s)
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -103 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -106 dBm]
+Found 2 device(s)
+Device 1: [Address: 2f:5a:24:af:f7:6d - RSSI: -100 dBm]
+Device 2: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -103 dBm]
+Found 4 device(s)
+Device 1: [Address: 2f:5a:24:af:f7:6d - RSSI: -103 dBm]
+Device 2: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Device 3: [Address: f2:70:1b:db:6b:c3 - RSSI: -97 dBm]
+Device 4: [Address: fd:95:46:86:68:41 - RSSI: -103 dBm]
+Found 3 device(s)
+Device 1: [Address: 2f:5a:24:af:f7:6d - RSSI: -104 dBm]
+Device 2: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Device 3: [Address: fd:95:46:86:68:41 - RSSI: -101 dBm]
+Found 3 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -103 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -95 dBm]
+Device 3: [Address: fd:95:46:86:68:41 - RSSI: -101 dBm]
+Found 0 device(s)
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -96 dBm]
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 1 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Found 3 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -98 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -99 dBm]
+Device 3: [Address: fd:95:46:86:68:41 - RSSI: -98 dBm]
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -99 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -103 dBm]
+Found 3 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -101 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -99 dBm]
+Device 3: [Address: fd:95:46:86:68:41 - RSSI: -101 dBm]
+Found 3 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -101 dBm]
+Device 3: [Address: fd:95:46:86:68:41 - RSSI: -101 dBm]
+Found 2 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -102 dBm]
+Device 2: [Address: fd:95:46:86:68:41 - RSSI: -106 dBm]
+Found 3 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -101 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -103 dBm]
+Device 3: [Address: fd:95:46:86:68:41 - RSSI: -97 dBm]
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -97 dBm]
+Device 2: [Address: fd:95:46:86:68:41 - RSSI: -97 dBm]
+Found 2 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -96 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -101 dBm]
+Found 3 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -101 dBm]
+Device 3: [Address: fd:95:46:86:68:41 - RSSI: -99 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -101 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -101 dBm]
+Found 2 device(s)
+Device 1: [Address: 50:e4:bb:4c:a0:f0 - RSSI: -101 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 2 device(s)
+Device 1: [Address: 50:e4:bb:4c:a0:f0 - RSSI: -100 dBm]
+Device 2: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -103 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -104 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -102 dBm]
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -103 dBm]
+Found 0 device(s)
+Found 1 device(s)
+Device 1: [Address: f2:70:1b:db:6b:c3 - RSSI: -100 dBm]
+Found 1 device(s)
+Device 1: [Address: 6a:98:6a:7b:8c:d8 - RSSI: -100 dBm]
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)
+Found 0 device(s)

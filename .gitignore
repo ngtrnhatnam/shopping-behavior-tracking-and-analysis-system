@@ -12,6 +12,7 @@ __pycache__/
 *.log
 *.sqlite3
 db.sqlite3
+logs/
 
 # Ignore các thư mục của IDE (VS Code, PyCharm)
 .vscode/
@@ -29,10 +30,14 @@ build/
 dist/
 
 # Ignore file môi trường
-.env
-.env.local
-.env.development
-.env.production
-.env.test
+.env*
+*.env.local
+*.env.development
+*.env.production
+*.env.test
 
+# Ignore file ghi chú các bước
 Step.txt
+
+# Ignore file test
+*.config.py
