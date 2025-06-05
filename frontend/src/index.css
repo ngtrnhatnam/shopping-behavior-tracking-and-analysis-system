@@ -12,3 +12,19 @@ html {
 h1, h2, h3 {
   font-family: 'Be VietNam Pro', sans-serif;
 }
+
+:root {
+  --primary-color: #1e40af; 
+}
+
+button.dynamic-primary {
+  background-color: var(--primary-color);
+}
+
+button.dynamic-primary:hover {
+  filter: brightness(0.9);
+}
+
+body {
+  @apply bg-gradient-to-tr from-pink-100 via-white to-blue-100;
+}

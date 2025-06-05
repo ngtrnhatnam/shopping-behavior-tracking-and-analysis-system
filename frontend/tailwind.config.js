@@ -8,7 +8,8 @@ export default {
     extend: {
       backgroundImage: {
         'auth': "url('/src/assets/images/background.jpg')",
-      }
+      },
+      darkMode: 'class'
     },
   },
   plugins: [],

@@ -51,7 +51,7 @@
 
     const handleRegister = () => {
       const data = { username, password, email };
-      api.post("/api/accounts", data)
+      api.post("/api/accounts/", data)
         .then(() => alert("Đăng ký thành công"))
         .catch((err) => {
           console.error(err);

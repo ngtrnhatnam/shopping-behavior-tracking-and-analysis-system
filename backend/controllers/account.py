@@ -16,7 +16,7 @@ def login_account(db: Session, username: str, password: str):
         Account.username == username,
         Account.isDeleted == False
     ).first()
-    if not account or account.password != password:
+    if not account or not verify_password(password, account.password):
         return None
     return account
 
@@ -66,10 +66,13 @@ def update_account(db: Session, update_data: AccountUpdate, account_id: int):
     if not account:
         return None
     update_fields = update_data.dict(exclude_unset=True)
-    if 'password' in update_fields:
+    if 'password' in update_fields and update_fields['password']:
         update_fields['password'] = bcrypt.hashpw(
             update_fields['password'].encode('utf-8'), bcrypt.gensalt()
         ).decode('utf-8')
+    else:
+        update_fields.pop('password', None)
+
     for field, value in update_fields.items():
         setattr(account, field, value)
     db.commit()
